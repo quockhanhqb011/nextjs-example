@@ -9,7 +9,7 @@ const Index = () => {
             </Head>
 
             <div className={'body'}>
-                TEST TEST TEST
+                Content is updated......
             </div>
         </Fragment>
     );
